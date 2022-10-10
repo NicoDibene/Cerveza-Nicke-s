@@ -1,0 +1,86 @@
+html{
+    background-image: url(imagenes/malta.jpg);
+}
+section.unidor{
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(yellow), to(white));
+   margin: auto;
+   border: 2px solid black;
+   text-align: center;
+   width: 1000px;
+   height:1000px;
+   
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 800px;
+    padding: 0px;
+}
+
+section.nav{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+}
+
+ul.nave{
+    display: inline-block;
+    list-style: none;
+    width: 100%;
+}
+ul.parrafo1.li{
+    display: inline-block;
+}
+
+img.foto1{
+    width: 300px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+img.foto2{ 
+    width: 300px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+ul.fotos{
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 50px;
+    list-style-type: none;
+}
+
+img.face{
+    width: 50px;
+    height: 50px;}
+
+img.insta{
+     width: 50px;
+     height: 50px;}
+
+img.tw{
+    width: 50px;
+    height: 50px;}
+
+footer{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 70%;
+    padding-top: 20px;
+    
+}
+
+
